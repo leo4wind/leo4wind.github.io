@@ -112,7 +112,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：一个好汉三个帮，一个篱笆三个桩。在职场升职做领导，最忌讳白领导架子去指挥属下。一个领导能做多少工作，一旦工作开始，具体落实到行动还是靠团队。所以一定要能够团结团队，明确分工边界与协作节点，避免职责重叠内耗。一个和谐的团队，效率会事半功倍。这里有很多管理方法，比如以目标凝聚力替代人情捆绑，定期校准团队对齐度。
 
-<img src="https://picx.zhimg.com/50/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_720w.jpg?source=2c26e567" data-rawwidth="1379" data-rawheight="777" data-size="normal" data-caption="" data-original-token="v2-cbd725666f9ba0999857d4db4673801f" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b8474c842b02cd89ed2ed70c7744f09d_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1379" data-original="https://picx.zhimg.com/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_720w.jpg?source=2c26e567" data-rawwidth="1379" data-rawheight="777" data-size="normal" data-caption="" data-original-token="v2-cbd725666f9ba0999857d4db4673801f" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b8474c842b02cd89ed2ed70c7744f09d_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1379" data-original="https://picx.zhimg.com/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_r.jpg?source=2c26e567" alt="图片描述文字"/>
 <img src="https://pic1.zhimg.com/50/v2-b9bc66cacda7887203d09c1f91f0ff51_720w.jpg?source=2c26e567" data-rawwidth="640" data-rawheight="377" data-size="normal" data-caption="" data-original-token="v2-b9bc66cacda7887203d09c1f91f0ff51" class="origin_image zh-lightbox-thumb" width="640" data-original="https://picx.zhimg.com/v2-b9bc66cacda7887203d09c1f91f0ff51_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 八、要有一个很好的战斗作风
