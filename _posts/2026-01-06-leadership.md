@@ -26,7 +26,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：林帅开篇说的很明白：要勤快，该自己做的事情，一定要亲自过目、亲自动手，要把各种情况，环节，各个细节，做到了然于胸。你作为领导，一定要明白自己和团队的分工，哪些是自己的工作，那些是属下的工作。把自己的亲自做好，该下属做的，要及时了解，要严格检查。对于职场人来说：作为新晋领导，还没有建立自己的权威，和团队磨合还不到位，关键环节一定要亲自跟进（如项目风险评估、核心客户对接），避免甩手掌柜心态。 亲力亲为，事必躬亲，这是必须的，否则你对工作的把控，对项目的进展，都是一知半解，能做好领导才怪。当然仅仅如此肯定是不够的，继续往下看。
 
-<img src="https://picx.zhimg.com/50/v2-a22d95797512b8787f1d2547377b2ccf_720w.jpg?source=2c26e567" data-rawwidth="660" data-rawheight="328" data-size="normal" data-caption="" data-original-token="v2-b60e039855206a2529c7e92266d10fed" data-default-watermark-src="https://picx.zhimg.com/50/v2-143e2edcf9c51b1409c59b3b367c2356_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="660" data-original="https://pica.zhimg.com/v2-a22d95797512b8787f1d2547377b2ccf_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-a22d95797512b8787f1d2547377b2ccf_720w.jpg?source=2c26e567" data-rawwidth="660" data-rawheight="328" data-size="normal" data-caption="" data-original-token="v2-b60e039855206a2529c7e92266d10fed" data-default-watermark-src="https://picx.zhimg.com/50/v2-143e2edcf9c51b1409c59b3b367c2356_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="660" data-original="https://pica.zhimg.com/v2-a22d95797512b8787f1d2547377b2ccf_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 二、要摸清上级的意图
 对上级的意图要真正理解，真正融会贯通，真正认识自己所受领的任务在战役、战斗全局中的地位和作用。
@@ -39,7 +39,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：在职场上，升职其实也是中层，甚至刚从基层升上来。情况下，说管理有点过了，核心职能是执行，把上级领导的想法要求规划执行到位。执行到位需要建立在，对领导意图清晰的基础上。我们需要主动解读战略深意，不理解上级意图是做不好事情的（例：领导要求“降本”需区分成本优化还是战略收缩） 这些都是有方法理论可以套用的，比如通过“复述确认+方案预演”验证理解，减少执行偏差。
 
-<img src="https://picx.zhimg.com/50/v2-cd67c16ea097239c2a9af35064918cef_720w.jpg?source=2c26e567" data-rawwidth="660" data-rawheight="324" data-size="normal" data-caption="" data-original-token="v2-80a94e0c309d06b407ad50ceea03104f" data-default-watermark-src="https://picx.zhimg.com/50/v2-147bc6e3ef3b2ea9bf8728ba38af3903_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="660" data-original="https://picx.zhimg.com/v2-cd67c16ea097239c2a9af35064918cef_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-cd67c16ea097239c2a9af35064918cef_720w.jpg?source=2c26e567" data-rawwidth="660" data-rawheight="324" data-size="normal" data-caption="" data-original-token="v2-80a94e0c309d06b407ad50ceea03104f" data-default-watermark-src="https://picx.zhimg.com/50/v2-147bc6e3ef3b2ea9bf8728ba38af3903_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="660" data-original="https://picx.zhimg.com/v2-cd67c16ea097239c2a9af35064918cef_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 三、要调查研究
 对于敌情、地形、部队的情况和社会情况，要经常做到心中有数。要天天摸，天天琢磨，不能间断。这样做，不能看作是重复，实际上这不是重复，而是不断深化不断提高的过程，是取得正确认识的必不可少的手段。
@@ -56,7 +56,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：职场中作为中层领导，下属对工作的了解，对项目的理解都是部分的。他们不知道整个任务的情况，而作为团队领导，必须了解方方面面的因素，团队本身的、跨部门的、客户要求的、市场变化的、成本预算的、时间的、突发因素的等等亲力亲为不是闷头做事情，闷头做事情是做不好事情的。需要自己了解详细的情况，知己知彼百战百胜，才能更好带领团队把工作做好，不断积累自己的威信和团队凝聚力。最关键的就是，通过调查研究动态掌握行业趋势、竞品动因、团队能力短板，用数据代替经验判断。 比如你可以建立“客户/竞品/团队”三维动态信息，要看到问题的动态变化。
 
-<img src="https://pic1.zhimg.com/50/v2-b2baa70102c94d475b1712469af5fc38_720w.jpg?source=2c26e567" data-rawwidth="864" data-rawheight="486" data-size="normal" data-original-token="v2-b2baa70102c94d475b1712469af5fc38" class="origin_image zh-lightbox-thumb" width="864" data-original="https://pic1.zhimg.com/v2-b2baa70102c94d475b1712469af5fc38_r.jpg?source=2c26e567"/>
+<img src="https://pic1.zhimg.com/50/v2-b2baa70102c94d475b1712469af5fc38_720w.jpg?source=2c26e567" data-rawwidth="864" data-rawheight="486" data-size="normal" data-original-token="v2-b2baa70102c94d475b1712469af5fc38" class="origin_image zh-lightbox-thumb" width="864" data-original="https://pic1.zhimg.com/v2-b2baa70102c94d475b1712469af5fc38_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 林彪元帅饰演者：马绍信老师
 
@@ -71,7 +71,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：战场上是地图，工作中就是规划、大纲、进度，工作不能盲目，要有的放矢。你需要深度了解业务流程，或者项目计划，构建“闭眼可操作”的业务全景图。 这样的工作防范也有很多， 比如关键流程沙盘推演，提炼 SOP 与应急预案等。
 
-<img src="https://picx.zhimg.com/50/v2-ca3eec5ea90cbce26b9671248de33d24_720w.jpg?source=2c26e567" data-rawwidth="864" data-rawheight="486" data-size="normal" data-caption="" data-original-token="v2-ca3eec5ea90cbce26b9671248de33d24" class="origin_image zh-lightbox-thumb" width="864" data-original="https://picx.zhimg.com/v2-ca3eec5ea90cbce26b9671248de33d24_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-ca3eec5ea90cbce26b9671248de33d24_720w.jpg?source=2c26e567" data-rawwidth="864" data-rawheight="486" data-size="normal" data-caption="" data-original-token="v2-ca3eec5ea90cbce26b9671248de33d24" class="origin_image zh-lightbox-thumb" width="864" data-original="https://picx.zhimg.com/v2-ca3eec5ea90cbce26b9671248de33d24_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 五、要把各方面的问题想够想透
 每一次战役、战斗的组织，要让大家提出各种可能出现的问题，要让大家来找答案，而且要从最坏的最严重的情况来找答案。把所有提出来的问题都回答了，再没有问题没有回答的了，这样，打起仗来才不会犯大错误，万一犯了错误，也比较容易纠正。
@@ -86,7 +86,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：只对着地图是打不好仗的，同样只对着工作计划是完成不好工作的。需要把工作的方方面面的问题想透彻，关键点在哪里，难点在哪里，风险点在哪里，发生了什么情况该如何应对等等总而言之，重大项目前要组织“挑刺会”，预设失败场景（如资源中断、政策突变） 只要预设失败的场景，才能知道发生这种情况如何应对，来挽回失败。不能抱侥幸心理，侥幸的结果，可能就是事后总结教训。所以可以用“预失败分析法”，事前复盘替代事后总结。
 
-<img src="https://picx.zhimg.com/50/v2-40be580eb6a9670a37a0c7c89b5dffa8_720w.jpg?source=2c26e567" data-rawwidth="1920" data-rawheight="1440" data-size="normal" data-caption="" data-original-token="v2-a0f780d868d1e94e55783b78b7db6203" data-default-watermark-src="https://pic1.zhimg.com/50/v2-fff1c63f2b6bc32ea62d22678fdd8d19_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1920" data-original="https://picx.zhimg.com/v2-40be580eb6a9670a37a0c7c89b5dffa8_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-40be580eb6a9670a37a0c7c89b5dffa8_720w.jpg?source=2c26e567" data-rawwidth="1920" data-rawheight="1440" data-size="normal" data-caption="" data-original-token="v2-a0f780d868d1e94e55783b78b7db6203" data-default-watermark-src="https://pic1.zhimg.com/50/v2-fff1c63f2b6bc32ea62d22678fdd8d19_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1920" data-original="https://picx.zhimg.com/v2-40be580eb6a9670a37a0c7c89b5dffa8_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 六、要及时下达决心
 在什么样的情况下可以下决心打呢？
@@ -101,7 +101,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：工作都有困难，有困难就不做了吗？当然不行，把计划做好，各个问题想透彻，然后就要下决心，带领团队一起搞定工作。每个人都要自己的局限，不可能掌控百分百的信息，不要追求完美 万无一失，领导要有担当，基于工作目标，要果断下决定，果断行动。
 
-<img src="https://picx.zhimg.com/50/v2-605675f916b67e351d8418d0004d6a72_720w.jpg?source=2c26e567" data-rawwidth="3840" data-rawheight="2160" data-size="normal" data-caption="" data-original-token="v2-6d49fe41ee6cfdedb279d8a2cafedd96" data-default-watermark-src="https://picx.zhimg.com/50/v2-509710ec8509a0f9625ea10d278828be_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="3840" data-original="https://pic1.zhimg.com/v2-605675f916b67e351d8418d0004d6a72_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-605675f916b67e351d8418d0004d6a72_720w.jpg?source=2c26e567" data-rawwidth="3840" data-rawheight="2160" data-size="normal" data-caption="" data-original-token="v2-6d49fe41ee6cfdedb279d8a2cafedd96" data-default-watermark-src="https://picx.zhimg.com/50/v2-509710ec8509a0f9625ea10d278828be_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="3840" data-original="https://pic1.zhimg.com/v2-605675f916b67e351d8418d0004d6a72_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 七、要有一个很好的很团结的班子
 领导班子思想认识要一致，行动要协调、合拍，要雷厉风行，要有革命英雄主义的气概。
@@ -113,7 +113,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 **个人体会**：一个好汉三个帮，一个篱笆三个桩。在职场升职做领导，最忌讳白领导架子去指挥属下。一个领导能做多少工作，一旦工作开始，具体落实到行动还是靠团队。所以一定要能够团结团队，明确分工边界与协作节点，避免职责重叠内耗。一个和谐的团队，效率会事半功倍。这里有很多管理方法，比如以目标凝聚力替代人情捆绑，定期校准团队对齐度。
 
 <img src="https://picx.zhimg.com/50/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_720w.jpg?source=2c26e567" data-rawwidth="1379" data-rawheight="777" data-size="normal" data-caption="" data-original-token="v2-cbd725666f9ba0999857d4db4673801f" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b8474c842b02cd89ed2ed70c7744f09d_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1379" data-original="https://picx.zhimg.com/v2-ca281d9b7b0d41cd13edb65cf6e8bbdc_r.jpg?source=2c26e567"/>
-<img src="https://pic1.zhimg.com/50/v2-b9bc66cacda7887203d09c1f91f0ff51_720w.jpg?source=2c26e567" data-rawwidth="640" data-rawheight="377" data-size="normal" data-caption="" data-original-token="v2-b9bc66cacda7887203d09c1f91f0ff51" class="origin_image zh-lightbox-thumb" width="640" data-original="https://picx.zhimg.com/v2-b9bc66cacda7887203d09c1f91f0ff51_r.jpg?source=2c26e567"/>
+<img src="https://pic1.zhimg.com/50/v2-b9bc66cacda7887203d09c1f91f0ff51_720w.jpg?source=2c26e567" data-rawwidth="640" data-rawheight="377" data-size="normal" data-caption="" data-original-token="v2-b9bc66cacda7887203d09c1f91f0ff51" class="origin_image zh-lightbox-thumb" width="640" data-original="https://picx.zhimg.com/v2-b9bc66cacda7887203d09c1f91f0ff51_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 八、要有一个很好的战斗作风
 有好的战斗作风的部队才能打好仗，打胜仗。好的战斗作风首先是不叫苦，抢着去担负最艰巨的任务，英勇顽强，不怕牺牲，猛打猛冲猛追。
@@ -128,7 +128,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：团队好的作风，不是一时半会能建立起来的。领导要有权威，有愿意分享。做出了成绩，要给团队分享，平时要多给团队争取资源、利益、机会、学习，关键是团队才会跟着你打硬仗，关键时候定的上。不能单纯的画大饼，灌鸡汤。
 
-<img src="https://picx.zhimg.com/50/v2-19a92267257282f3ed34ba0979830d24_720w.jpg?source=2c26e567" data-rawwidth="839" data-rawheight="472" data-size="normal" data-caption="" data-original-token="v2-205d23ec790ad772eacb692c58a9b432" data-default-watermark-src="https://picx.zhimg.com/50/v2-7a2891355d3faf91ecbb54ef192443f6_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="839" data-original="https://picx.zhimg.com/v2-19a92267257282f3ed34ba0979830d24_r.jpg?source=2c26e567"/>
+<img src="https://picx.zhimg.com/50/v2-19a92267257282f3ed34ba0979830d24_720w.jpg?source=2c26e567" data-rawwidth="839" data-rawheight="472" data-size="normal" data-caption="" data-original-token="v2-205d23ec790ad772eacb692c58a9b432" data-default-watermark-src="https://picx.zhimg.com/50/v2-7a2891355d3faf91ecbb54ef192443f6_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="839" data-original="https://picx.zhimg.com/v2-19a92267257282f3ed34ba0979830d24_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 九、要重视政治，亲自做政治工作
 部队战斗力的提高要靠平时坚强的党的领导、坚强的政治工作。
@@ -143,7 +143,7 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 **个人体会**：团队的思维意识很重要，特别是团队中有年龄差时，对一些问题的看法咳宁不一样。作为领导一定要注意多培训，给年轻人成长的机会，帮助年轻人从学生思维到职场思维的转变。可以传递价值观（如客户第一）、消除认知偏差（例：解释战略转型必要性）。 具体沟通时用“故事化案例+数据对比”替代说教。要有正向激励，一定要亲自做，了解团队的动态，个人状态。
 
-<img src="https://pic1.zhimg.com/50/v2-9c8875b5b2edb79894b9add88060bccf_720w.jpg?source=2c26e567" data-rawwidth="640" data-rawheight="377" data-size="normal" data-caption="" data-original-token="v2-b9bc66cacda7887203d09c1f91f0ff51" data-default-watermark-src="https://pic1.zhimg.com/50/v2-26636cb7289cec4a669656802e87d129_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="640" data-original="https://pica.zhimg.com/v2-9c8875b5b2edb79894b9add88060bccf_r.jpg?source=2c26e567"/>
+<img src="https://pic1.zhimg.com/50/v2-9c8875b5b2edb79894b9add88060bccf_720w.jpg?source=2c26e567" data-rawwidth="640" data-rawheight="377" data-size="normal" data-caption="" data-original-token="v2-b9bc66cacda7887203d09c1f91f0ff51" data-default-watermark-src="https://pic1.zhimg.com/50/v2-26636cb7289cec4a669656802e87d129_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="640" data-original="https://pica.zhimg.com/v2-9c8875b5b2edb79894b9add88060bccf_r.jpg?source=2c26e567" alt="图片描述文字" />
 
 ## 杨成武将军的结语：
 这次谈话将要结束的时候，林军团长着重指出，当好师长最根本的一条是学好毛主席思想，照毛主席的指示去指挥作战，处理工作。
@@ -164,4 +164,4 @@ url: https://www.zhihu.com/question/1921367027748152577/answer/19237985113900082
 
 以上内容，仅供参考！
 
-<img src="https://picx.zhimg.com/50/v2-abbc1814d180de7021d1f78b83fd7dfa_720w.jpg?source=2c26e567" data-rawwidth="400" data-rawheight="212" data-size="normal" data-caption="" data-original-token="v2-53db29fbce1c1136b96ffa9a11581877" data-default-watermark-src="https://pic1.zhimg.com/50/v2-95a719897a0d0e6ac359a85aac241fb7_720w.jpg?source=2c26e567" class="content_image" width="400"/>
+<img src="https://picx.zhimg.com/50/v2-abbc1814d180de7021d1f78b83fd7dfa_720w.jpg?source=2c26e567" data-rawwidth="400" data-rawheight="212" data-size="normal" data-caption="" data-original-token="v2-53db29fbce1c1136b96ffa9a11581877" data-default-watermark-src="https://pic1.zhimg.com/50/v2-95a719897a0d0e6ac359a85aac241fb7_720w.jpg?source=2c26e567" class="content_image" width="400" alt="图片描述文字" />
